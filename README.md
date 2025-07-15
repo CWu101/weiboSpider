@@ -1,4 +1,4 @@
-# weiboSpider
+# Weibo Spider
 一款基于selenium和requests的微博热搜爬虫与可视化工具
 
 ## 🏃‍运行步骤
